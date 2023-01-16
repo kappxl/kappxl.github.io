@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkfoodbase_app"]=self["webpackChunkfoodbase_app"]||[]).push([[529],{529:(e,a,o)=>{o.r(a),o.d(a,{default:()=>p});var n=o(3673);function r(e,a,o,r,s,t){const u=(0,n.up)("router-view");return(0,n.wg)(),(0,n.j4)(u)}const s=(0,n.aZ)({name:"Food"});var t=o(4260);const u=(0,t.Z)(s,[["render",r]]),p=u}}]);
